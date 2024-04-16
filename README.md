@@ -1,0 +1,1 @@
+# hibernate-manytomany-singlecolumn-example
